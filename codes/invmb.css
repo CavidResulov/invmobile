@@ -1,0 +1,340 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato',san-serif;
+    overflow-x:hidden;
+    max-width: 1200px;
+}
+
+ul{
+    list-style: none;
+}
+
+.main-logo{
+    height: 40px;
+    margin-top: 30px;
+}
+
+
+.nav-links-item{
+    text-decoration: none;
+    color: rgb(39,39,39);
+}
+
+
+
+.onboard{
+    color: rgb(3,3,3);
+    text-align: center;
+    
+    
+}
+
+.we-strive{
+    color: rgb(152,152,152);
+    margin-left: 20px;
+    
+}
+
+.btn-blue {
+    background-color:rgb(37,84,206);
+    color:rgb(255,255,255);
+    padding: 16px;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+
+
+
+
+
+.main-photo{
+    height: 250px;
+    width: 380px;
+    margin-top: 30px;
+    
+    }
+
+.second-hero{
+    background-color:rgb(244,249,251);
+}
+
+
+.third-hero{
+    margin-top: 30px;
+    
+}
+
+.trusted{
+    color: rgb(0,0,0);
+    text-align: center;
+}
+
+.four-pics img{
+    height: 60px;
+    margin-left: 20px;
+    
+}
+
+.only-text{
+    color: rgb(69,79,114);
+    text-align: center;
+    font-size: 30px;
+}
+
+.page-cards{
+    margin-left: 50px;
+}
+
+.left-card{
+    padding: 30px 20px 70px 3px;
+    width:300px;
+    transition: 0.7s;
+}
+
+.left-card:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+}
+
+.middle-card{
+    padding: 30px 20px 70px 3px;
+    width:300px;
+    transition: 0.7s;
+    margin-top: 30px;
+}
+
+.middle-card:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+
+    .right-card{
+        padding: 30px 20px 70px 3px;
+    width:300px;
+        transition: 0.7s;
+        margin-top: 30px;
+    }
+    
+    .right-card:hover{
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        
+    }
+
+    .page-boxes{
+        margin-left: 60px;
+    }
+
+.pic-one{
+    height: 40px;
+}
+
+.header-svg-one{
+    height: 70px;
+   
+    
+}
+
+.header-svg-two{
+    height: 70px;
+}
+
+.header-svg-three{
+    height: 70px;
+}
+
+.kyc{
+    color: rgb(200,200,244);
+    font-size: 16px;
+}
+
+.real-time{
+    color: rgb(174,177,180);
+    font-size: 14px;
+}
+
+.digital{
+    color: rgb(200,200,244);
+    font-size: 16px;
+}
+
+.no-manual{
+    color: rgb(135,139,143);
+    font-size: 14px;
+}
+
+.verification{
+    color:rgb(200,200,244);
+    font-size: 16px;
+}
+
+.customer-business{
+    color:rgb(135,139,143);
+    font-size: 14px;
+}
+
+.pic-two{
+    height: 40px;
+}
+
+.pic-three{
+    height: 40px;
+}
+
+.efficient{
+    color: rgb(69,79,114);
+    font-size: 16px;
+}
+
+.friendly{
+    color: rgb(118,123,128);
+    font-size: 14px;
+}
+
+.satisfaction{
+    color:rgb(69,79,114);
+    font-size: 16px;
+}
+
+.customers{
+    color: rgb(118,123,128);
+    font-size: 14px;
+}
+
+.scale{
+    color:rgb(69,79,114);
+    font-size: 16px;
+}
+
+.cutting{
+    color:rgb(118,123,128);
+    font-size: 14px;
+}
+
+.digital{
+    color: rgb(120,125,152);
+    text-align: center;
+}
+
+.verification{
+    color: rgb(138,141,145);
+    margin-left: 62px;
+}
+
+.seventh-hero{
+    background-color: rgb(38,84,204);
+    width: 400px;
+    height: 220px;
+    
+}
+
+.boost{
+    color:rgb(255,255,255);
+}
+
+.speed-up{
+    color: rgb(220,220,248);
+}
+
+.btn-white{
+    background-color:rgb(255,255,255);
+    text-decoration: none;
+    margin-left: 100px;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+   
+}
+
+.recognized{
+    color: rgb(54,65,103);
+    text-align: center;
+}
+
+.six-photos img{
+    height: 60px;
+    width: 140px;
+    filter: grayscale(100%);
+    margin-left: 30px;
+}
+
+footer{
+    background-color: mediumblue;
+    height: 650px;
+    margin-top: 30px;
+    width: 400px;
+}
+.media-links a{
+    background-color: white;
+    }
+
+.down-left p{
+    font-size: 22px;
+    color: rgb(116,116,210);
+}
+
+.products{
+    color: white;
+    
+}
+
+.down-middle{
+    margin-top: 30px;
+}
+
+.envelope{
+    margin-top: 30px;
+}
+
+
+
+.down-middle a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: rgb(140,140,219);
+    font-size: 20px;
+}
+
+.envelope{
+    color:white;
+
+}
+
+
+
+@media only screen and (min-width: 1200px) {
+
+    body{
+        max-width: 1700px;
+    }
+    .nav-container{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .nav-links{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .right-part{
+        margin-left: 1000px;
+    }
+    .left-part{
+        margin-right: 1000px;
+    }
+}
+
+
+
+
+
+
+
+
